@@ -3,7 +3,7 @@ import pandas as pd
 
 os.getcwd()
 
-data = pd.read_csv("C:\\Users\\mojotics\\Desktop\\mtcars.csv")
+data = pd.read_csv("C:\\Users\\Desktop\\mtcars.csv")
 
 data.head()
 
